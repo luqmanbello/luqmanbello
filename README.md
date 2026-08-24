@@ -10,8 +10,6 @@
   </a>
 </p>
 
-<br>
-
 ## About Me
 
 I'm a passionate DevOps and Site Reliability Engineer with **7+ years** of experience building and optimizing cloud infrastructures for high-traffic systems. Currently working at **OpenBB**, I specialize in creating scalable, secure, and efficient infrastructure solutions.
